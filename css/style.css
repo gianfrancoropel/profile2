@@ -1,0 +1,98 @@
+
+.colornav1{
+    border-radius: 0px 0px 20px 20px ;
+    background: #d0701e;
+    
+}
+
+.colornav2{
+    border-radius: 5px 5px 20px 20px;
+    background: #9e5517;
+    padding: 15px;
+}
+.colornav3{
+    border-radius:20px;
+    background: #d0701e;
+}
+html,body{
+    background: #222;
+        font-family: 'Raleway', sans-serif;
+
+}
+.texto1{
+    text-align: center;
+    top: 50%;
+    height: 50%;
+    color: #fff;
+}
+.txtAnimado{
+    border-radius: 10px;
+    padding: 5px;
+    margin:0px 5px;
+    color: rgb(255, 255, 255);
+    width:180px;
+    background: #222;
+}
+@media(min-width:200px){
+    .sub{
+        width: 300px;
+     }
+     
+}
+
+@media(min-width:400px){
+    .colornav1{
+        padding: 20px;
+    }
+    .sub{
+        width: 380px;
+     }
+     .text-nav *{
+        margin: 0px 5px;
+    }
+    .sectionLargo{
+        height: 800px;
+    }
+
+}
+
+
+@media(min-width:730px){
+    .sub{
+        width: 600px;
+     }
+     .text-nav *{
+        margin: 0px 25px;
+    }
+
+
+
+.sectionIntro{
+    width: 100%;
+    background: rgb(34,34,34);
+    background: linear-gradient(180deg, rgba(34,34,34,1) 0%, rgb(66, 66, 66) 72%, rgba(79,79,79,1) 100%);  
+        /* Full height */
+        /* Center and scale the image nicely */
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+      }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
