@@ -116,7 +116,12 @@ html,body{
        
     }
 
+    .navbar .dropdown-menu {
 
+        border-radius: 20px!important;
+        background: #d0701e!important;
+        font-family: Arial!important;
+    }
 
 
 
