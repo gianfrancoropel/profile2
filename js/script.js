@@ -36,7 +36,7 @@ if(window.screen.width >=1024){
             <a class="nav-link" href="#">INICIO<span class="sr-only">(current)</span></a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">CONTACTO</a>
+            <a class="nav-link" href="https://api.whatsapp.com/send?phone=542616506810&text=Gdesign">CONTACTO</a>
           </li>
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button"
@@ -44,9 +44,9 @@ if(window.screen.width >=1024){
               PORTAFOLIO
             </a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-              <a class="dropdown-item" href="https://google.com">PROGRAMACION</a>
-              <a class="dropdown-item" href="https://pixelart.io">DISEÑO</a>
-              <a class="dropdown-item" href="#">MARKETING</a>
+              <a class="dropdown-item" href="https://gianfrancoropel.github.io/orotropel/">PROGRAMACION</a>
+              <a class="dropdown-item" href="https://drive.google.com/open?id=0B75IBr2ISlcoc0xTN2tQTkphNTQ">DISEÑO</a>
+              <a class="dropdown-item" href="https://inflacionzero.tk">MARKETING</a>
             </div>
           </li>
         </ul>
