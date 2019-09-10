@@ -30,7 +30,7 @@ if(window.screen.width >=1024){
 
     <div class="justify-content-center  col-12 d-flex">
     
-      <nav class="navbar navbar-expand navbar-dark sub text-nav colornav2">
+      <nav class="navbar  navbar-expand navbar-dark sub text-nav colornav2">
         <ul class="navbar-nav">
           <li class=" active">
             <a class="nav-link" href="#">INICIO<span class="sr-only">(current)</span></a>
